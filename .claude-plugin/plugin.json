@@ -1,6 +1,6 @@
 {
   "name": "haskell-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Haskell language server plugin for Claude Code with haskell-language-server integration and automated hooks for linting and formatting",
   "author": {
     "name": "zircote",
